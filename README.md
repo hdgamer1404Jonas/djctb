@@ -8,3 +8,6 @@ The code provided in this repository is still pretty buggy. It hardly relies on 
 3. Replace the variable midi_name with your devices name written in the console.
 4. Some dj controllers might be different. I will make it easier in the future to configure the script for your device. For now, if your device is different, you need to change the if statements yourself.
 5. If everying is correct, you can run the script and start playing.
+
+## Video Showcase
+https://www.youtube.com/watch?v=RksV_qZFg8E
